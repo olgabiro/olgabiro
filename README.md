@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=olgabiro&show_icons=true&theme=date_night)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=olgabiro&show_icons=true&theme=date_night&rank_icon=github&hide=contribs)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/olga-biro-14b44a138)
 [![Blog](https://img.shields.io/badge/My_blog-CD7D86)](http://olgabiro.substack.com/)
