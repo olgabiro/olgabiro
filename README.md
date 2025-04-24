@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=olgabiro&show_icons=true&theme=radical)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/olga-biro-14b44a138)
+[![Blog](https://img.shields.io/badge/My_blog-8A2BE2)](http://olgabiro.substack.com/)
